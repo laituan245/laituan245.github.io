@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/laituan245
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://laituan.io
+  * I am laituan245 (https://keybase.io/laituan245) on keybase.
+  * I have a public key ASDKOSra0HNGCKUPBxr0fkA7SjNdKeZ2aXzcS-cXgo9_mAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e96308370523a007db2ac895ab23994ada2157467050fe4171cc10831e23ece40a",
+      "host": "keybase.io",
+      "kid": "0120ca392adad0734608a50f071af47e403b4a335d29e676697cdc4be717828f7f980a",
+      "uid": "93ccce980ced812fe8d6d3165e8c9919",
+      "username": "laituan245"
+    },
+    "merkle_root": {
+      "ctime": 1573774400,
+      "hash": "bbbd9be1eaa403d3bf26bfb87803427eeaf08eaf5f9621a7c9756a581c8b73518af980e7dd12b2cea767ae04f28a4af3cb610fcd6f82dc232cbc613788b404df",
+      "hash_meta": "74de8d6705baf66a4e29ded686dabdb87740d1ffbd2dddffdf463c002edae1a4",
+      "seqno": 9609967
+    },
+    "service": {
+      "entropy": "ohKcsjjzuHtxpVCZgTVK/cer",
+      "hostname": "laituan.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573774407,
+  "expire_in": 504576000,
+  "prev": "400c6904fbf90c9189f6b6faff6c759a3f3363585e265d9fc5f742d8336a48e5",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyjkq2tBzRgilDwca9H5AO0ozXSnmdml83EvnF4KPf5gKp3BheWxvYWTESpcCDsQgQAxpBPv5DJGJ9rb6/2x1mj8zY1heJl2fxfdC2DNqSOXEIGwg/IYX1XFuGAbBfbg+JfNalB7MZZsP+SgQPZu4OscvAgHCo3NpZ8RAPWL2teWsFlymHTSjsddyFkSMM4NUaWLd1iNaAgjoJwan2YZmOG6fTivhKXW3K3Bg4lWxiYDNi2jCmqL4jwTFBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP3ykWR9erKt4XQY+O7GNKzU6oIh2BRidfpXZlkg/RJoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/laituan245
+
+==================================================================
